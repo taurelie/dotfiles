@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = aurelie.taschonÃ@gmail.com
+	name = aurelie pallini
